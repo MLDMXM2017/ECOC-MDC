@@ -1,0 +1,14 @@
+ECOCs Library v1.0
+
+Copyright (c) 2009 Sergio Escalera
+
+You should include the folders 'AdaboostROC', 'BDs', 'Codings', and 'NMC' in the Matlab/Octave path.
+
+ECOCs is the main function of the library.
+
+Read the UserGuide document for library details.
+
+Authour information:
+Dr. Sergio Escalera Guerrero, Universitat de Barcelona, Gran Via 585, 08007, Barcelona, Spain e-mail: sergio@maia.ub.es
+Dr. Oriol Pujol Vila, Universitat de Barcelona, Gran Via 585, 08007, Barcelona, Spain e-mail: oriol@maia.ub.es
+Dr. Petia Radeva, Universitat de Barcelona, Gran Via 585, 08007, Barcelona, Spain e-mail: petia@maia.ub.es
