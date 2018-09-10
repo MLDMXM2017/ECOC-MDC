@@ -14,7 +14,7 @@ These repository offers some base implements of ECOC_MDC algorithm.
     this folder offers abouve functions and some extra functions: painting for experimental result.
 
 ## Others
-This repostory displays the whole work of ECOC_MDC algorithm i have worked for a two years, i hope to share my work by this platform. If you are interested this topic, welcome to interact me!
+This repostory displays the whole work of ECOC_MDC algorithm we have worked for a two years, we hope to share my work by this platform. If you are interested this topic, welcome to interact us!
   
   
 
