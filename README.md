@@ -1,6 +1,5 @@
 
 # ECOC_MDC
-------
 
 These repository offers some base implements of ECOC_MDC algorithm. 
 
