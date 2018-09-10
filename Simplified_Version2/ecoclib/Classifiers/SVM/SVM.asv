@@ -1,0 +1,7 @@
+function SVMStruct = MySVM(data1,data2,kernel_param)
+    data = [data1;data2];
+    labels = [ones(size(data1,1),1); -ones(size(data2,1),1)];
+    SVMStruct = svmtrain(data,labels,kernel,Value)
+
+
+end
